@@ -1,0 +1,18 @@
+.info {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 28vw;
+  height: 23vw;
+  background: #fff;
+  color: #000;
+}
+
+p {
+  font-size: 1.5vw;
+  letter-spacing: 0;
+  font-weight: 600;
+  font-family: "Rubik", sans-serif;
+}
